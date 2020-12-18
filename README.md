@@ -2,7 +2,7 @@
 
 Built a <b>CLI Quiz Game</b> on myself.
 <br />
-Toke the quiz to find out how well you know me.
+Take the quiz to find out how well you know me.
 <br />
 A part of submission of an assignment for <b>neogcamp.</b>
 <br />
